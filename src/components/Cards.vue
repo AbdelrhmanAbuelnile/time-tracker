@@ -145,7 +145,6 @@
                     <p class=" font-semibold text-white text-lg">Exercise</p>
                     <p class=" text-gray-300 font-medium text-lg">...</p>
                 </div>
-
                 <div
                     class="
                         flex flex-row justify-between items-center
